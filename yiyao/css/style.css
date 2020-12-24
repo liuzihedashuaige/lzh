@@ -1,0 +1,490 @@
+.tou{
+    width: 16rem;
+    height: 7.125rem;
+    position: relative;
+    background:url(../img/banner.jpg) no-repeat ;
+
+}
+
+.sousuo{
+    width: 16rem;
+    height: 2.25rem;
+    background-color:rgba(0, 0, 0, 0.3);
+}
+.sousuo .mulu a{
+    font-size: 0.75rem;
+    color: #fff;
+}
+.sousuo .mulu p{
+    font-size: 0.4rem;
+    color: #fff;
+    font-family: '宋体';
+}
+.mulu{
+    float: left;
+    margin-left: 0.475rem;
+    margin-right:0.65rem;
+}
+.kuang{
+    float: left;
+    margin-right: 0.75rem;
+}
+.gouwu{
+    float: left;
+    margin-top: 5px;
+}
+.sousuo .kuang input{
+    width: 11.125rem;
+    height: 1rem;
+    border-radius: 5px;
+}
+.gouwu a{
+    font-size: 0.8rem;
+    color: #fff;
+}
+.kuang a{
+    color:black;
+    font-size: 0.7rem;
+    position: absolute;
+    left: 12rem; top: 0.6rem;
+    z-index: 3;
+
+}
+.tou ul{
+    position: absolute;
+    right: 0.5rem; bottom:0.3rem;
+}
+.tou ul li{
+    width: 0.3rem;
+    height: 0.3rem;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    float:left;
+    margin-right: 0.15rem;
+}
+.tou ul li:hover{
+    background-color: #fff;
+}
+.d{
+    background-color: #fff;
+}
+
+body{
+    background-color:#F0F0F0;
+}
+.fl{
+    height: 8rem;
+    background-color: #fff;
+    margin-top:0.5rem;
+    margin-bottom: 0.5rem;
+}
+.fl .fl1 .fl1-1{
+    background-color: #FFB20C;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl1 .fl1-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl1 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+    
+}
+.fl1{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-left: 0.775rem;
+    margin-right: 1.2rem;
+
+}
+
+
+
+.fl .fl2 .fl2-1{
+    background-color: #FF4400;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl2 .fl2-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl2 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl2{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 1.35rem;
+}
+
+.fl .fl3 .fl3-1{
+    background-color: #22A6F9;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl3 .fl3-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl3 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl3{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 1.35rem;
+}
+
+.fl .fl4 .fl4-1{
+    background-color:#E45734;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl4 .fl4-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl4 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl4{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 0.825rem;
+}
+
+.fl .fl5 .fl5-1{
+    background-color:#E2000C;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl5 .fl5-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl5 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl5{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-left: 0.775rem;
+    margin-right: 1.2rem;
+
+}
+
+.fl .fl6 .fl6-1{
+    background-color: #FF7E00;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl6 .fl6-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl6 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl6{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 1.35rem;
+}
+
+.fl .fl7 .fl7-1{
+    background-color: #FF4D49;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl7 .fl7-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl7 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl7{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 1.35rem;
+}
+
+.fl .fl8 .fl8-1{
+    background-color: #EB3C78;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 1.25rem;
+}
+.fl .fl8 .fl8-1 p{
+    font-size: 1.25rem;
+    color: #fff;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.fl .fl8 a{
+    font-size: 0.5rem;
+    color: black;
+    float: left;
+    text-align: center;
+    width: 2.5rem;
+    margin-top: 0.25rem;
+}
+.fl8{
+    width: 2.5rem;
+    height: 3.275rem;
+    float: left;
+    margin-right: 0.825rem;
+}
+.fl1,.fl2,.fl3,.fl4{
+    margin-top: 0.575rem;
+    margin-bottom: 0.575rem;
+}
+.zuidijia{
+    height: 10.2rem;
+    background-color: #ffff;
+
+}
+.zuidijia .qw{
+    width: 15.5rem;
+    height: 1.6rem;
+    border-bottom:1px solid #DADADA;
+}
+.zuidijia .qw h3{
+    font-size: 0.625rem;
+    line-height: 1.575rem;
+    font-weight: normal;
+    text-indent: 0.65rem;
+    float: left;
+}
+.zuidijia .qw p{
+    width: 0.15rem;
+    height: 0.6rem;
+    background-color: #2A89DE;
+    float: left;
+    margin-top: 0.45rem;
+    margin-left: 0.35rem;
+}
+
+.qw2 .t1{
+    float: left;
+    border-right: 1px solid #DADADA;
+}
+.qw2 .t2{
+    float:left;
+}
+.qw2 .t3{
+    float: left;
+    border-top: 1px solid #DADADA;
+}
+.xinma{
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    margin-left: 0.25rem;
+}
+
+.daxieenshi{
+    height: 10.2rem;
+    background-color: #ffff;
+    margin-bottom: 0.5rem;
+}
+.daxieenshi .qw{
+    width: 15.5rem;
+    height: 1.6rem;
+    border-bottom:1px solid #DADADA;
+}
+.daxieenshi .qw h3{
+    font-size: 0.625rem;
+    line-height: 1.575rem;
+    font-weight: normal;
+    text-indent: 0.65rem;
+    float: left;
+}
+.daxieenshi .qw p{
+    width: 0.15rem;
+    height: 0.6rem;
+    background-color: #2A89DE;
+    float: left;
+    margin-top: 0.45rem;
+    margin-left: 0.35rem;
+}
+.qw3 .qw4{
+    width: 7.8rem;
+    height: 8.575rem;
+    float: left;
+}
+.qw3 .qw4 .t1,.t2{
+    float: left;
+}
+.qw3 .t3{
+    float: right;
+}
+.qw3{
+    height: 8.625rem;
+    width: 15.5rem;
+}
+.xinyonghu{
+    margin-bottom: 0.5rem;
+}
+.bai{
+    height: 1rem;
+    background-color: #fff;
+}
+.denglu .zuo a{
+    font-size: 0.3rem;
+    color: #2A8ADE;
+    float: left;
+    line-height: 1.05rem;
+}
+.denglu .zuo p{
+    width: 0.05rem;
+    height: 0.275rem;
+    background-color: #C8C8C8;
+    float: left;
+}
+.denglu .zuo{
+    height: 1.05rem;
+    width: 6.95rem;
+    float: left;
+}
+.denglu .zuo a{
+    margin: 0 0.4rem 0 0.4rem;
+}
+.denglu .zuo p{
+    margin-top: 0.4rem;
+}
+.denglu .you{
+    width: 1.4rem;
+    height: 1.05rem;
+    float: right;
+    background: url(../img/../img/xiaofangzi.jpg) no-repeat right center;
+
+}
+.denglu .you a{
+    font-size: 0.3rem;
+    color: #2A8ADE;
+    line-height: 1.05rem;
+    float: left;
+}
+.denglu{
+    height: 1.05rem;
+}
+.ban .ban1 a{
+    font-size: 0.275rem;
+    color: #fff;
+    margin: 0 0.425rem 0 0.425rem;
+    line-height:1.075rem;
+    float: left;
+}
+.ban{
+    background-color: #1771D2;
+    height: 1.075rem;
+}
+.ban .ban1{
+    text-align: center;
+    height: 1.075rem;
+    width: 5.4rem;
+    margin-left: 5.3rem;
+}
+.ban .ban1 span{
+    width: 0.05rem;
+    height: 0.325rem;
+    background-color: #ffff;
+    display: block;
+    float: left;
+    line-height: 1.075rem;
+    margin-top: 0.375rem;
+
+}
+.xia1{
+    height: 1.075rem;
+    background-color: #2A8ADE;
+}
+.xia1 p{
+    float: left;
+    font-size: 0.3rem;
+    line-height: 1.075rem;
+    margin: 0 0.025rem 0 0.025rem ;
+}
+.xia1 .xia2{
+    margin-left: 5rem;
+}
+.xia3{
+    height: 1.075rem;
+    background-color: #1771D2;
+}
+.xia3 p{
+    font-size: 0.3rem;
+    color: #FFFFA5;
+    line-height: 1.075rem;
+    text-align: center;
+}
+.xia1 .xia2 .o1,.o2,.o3{
+    color: #fff;
+    font-size: 0.35rem;
+}
+
